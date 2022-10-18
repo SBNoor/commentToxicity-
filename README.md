@@ -9,4 +9,4 @@
 * **After running cell # 34, click on the URL provided. URL has only been tested on google chrome. It may not work on safari**
 
 #### After entering a phrase on the interface, you'll get an output for example: 
-![Output img(https://github.com/SBNoor/commentToxicity-/blob/main/img1.png)
+![Output img](https://github.com/SBNoor/commentToxicity-/blob/main/img1.png)
